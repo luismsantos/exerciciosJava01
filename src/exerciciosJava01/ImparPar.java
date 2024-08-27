@@ -1,3 +1,5 @@
+// 4- Faça um algoritmo que leia dois numero inteiros e faça a soma dos dois, informe se o resultado é par ou impar.
+
 package exerciciosJava01;
 
 import java.util.Locale;

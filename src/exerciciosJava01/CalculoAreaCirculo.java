@@ -1,3 +1,5 @@
+// 1- Faça um algoritmo que leia o valor do raio de um círculo e calcule sua área.
+
 package exerciciosJava01;
 
 import java.util.Locale;
