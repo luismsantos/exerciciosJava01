@@ -11,8 +11,7 @@ Exercicios simples feitos usando estruturas condionais e laços de repetição
     3- Escrever um programa em Java que calcula a número de dias decorridos entre duas datas lidas: a data mais antiga e a data mais recente. Considerar a ocorrência de anos bissextos.  Considerar o  seguinte intervalo  para o  valor  do ano fornecido:
     1950 - 1996(1952 foi um ano bissexto).
     
-    4- Faça um algoritmo que leia dois numero inteiros e faça a soma dos dois,
-    informe se o resultado é par ou impar.
+    4- Faça um algoritmo que leia dois numero inteiros e faça a soma dos dois, informe se o resultado é par ou impar.
     
     5- Faça um programa que mostre a fatorial de um número
     
